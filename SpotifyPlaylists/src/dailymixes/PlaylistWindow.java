@@ -8,13 +8,6 @@ import list.AList;
 
 import java.awt.*;
 
-/**
- * The playlist GUI window that displays the songs in the queue and
- * the songs in the playlist. The user can accept or reject (>:(<) a song.
- *
- * @author Michael Peters (mpeters01)
- * @version 2023.03.12
- */
 public class PlaylistWindow {
 
     private Window window;
